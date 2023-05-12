@@ -1,0 +1,30 @@
+{
+  "name": "colorface",
+  "version": "1.0.0",
+  "description": "An accessible color interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GooiReads/colorface.git"
+  },
+  "keywords": [
+    "color",
+    "interface",
+    "accessibility",
+    "contrast",
+    "perceptual",
+    "ease",
+    "chroma",
+    "hue",
+    "lightness"
+  ],
+  "author": "Ying Chyi Gooi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GooiReads/colorface/issues"
+  },
+  "homepage": "https://github.com/GooiReads/colorface#readme"
+}
